@@ -1,0 +1,69 @@
+html {
+  font-family: monospace;
+  background-color: white;
+}
+
+#controversy {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  	background-color: white;
+	width: auto;
+	font-size: 20px;
+	}
+h1,
+h2,
+h3 {
+  font-family: Courier New;
+  text-align: center;
+  color: black;
+}
+
+#signuptitle {
+	font-size: 30px;
+	text-decoration: underline;
+	font-style: italic;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.intro {
+  font-size: 20px;
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+#jadensmith {
+  	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nameemaillabels {
+	text-align: center;
+}
+
+#signupclick {
+	font-family: monospace;
+	font-weight: lighter;
+	padding: 10px;
+	font-size: 28px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #ffffff;
+	border-radius: 5%;
+	border-style: solid;
+	border-width: thin;
+}
+
+a {
+	color: black;
+	text-decoration:none;
+}
+a:hover {
+	color:red;
+}
